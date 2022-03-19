@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/pierre-emmanuel-goffi/">
-  <img align="left" alt="Pierre's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
 
-Hi, I'm [Pierre-Emmanuel Goffi](https://goffi.dev). I am cofounder and full-stack developer, at piknix. I specialize myself in AI-enabled cloud applications. I graduated in Computer Vision at université de Sherbrooke. I currently live in Montréal, QC.
+I'm [Pierre-Emmanuel Goffi](https://goffi.dev). I am cofounder and full-stack developer, at piknix. I specialize myself in AI-enabled cloud applications. I graduated in Computer Vision at université de Sherbrooke. I currently live in Montréal, QC.
 
 
 💼 Contact with me: [email](mailto:goffi.pro@icloud.com)
