@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
-
 I'm [Pierre-Emmanuel Goffi](https://goffi.dev). I am cofounder and full-stack developer, at piknix. I specialize myself in AI-enabled cloud applications. I graduated in Computer Vision at université de Sherbrooke. I currently live in Montréal, QC.
 
 
-💼 Contact with me: [email](mailto:goffi.pro@icloud.com)
+💼 Contact: [email](mailto:goffi.pro@icloud.com)
 
 **Tech Stack:**  
 
