@@ -19,6 +19,7 @@ I'm [Pierre-Emmanuel Goffi](https://goffi.dev). I am cofounder and full-stack de
 
 
 💼 Contact: [goffi.pro@icloud.com](mailto:goffi.pro@icloud.com)
+
 ---- 
 **Tech Stack:**  
 
